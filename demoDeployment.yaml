@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: python-demo-app
-        image: cloudsperk/python-sample-app:v1
+        image: cloudsperk/python-sample-app:v2
         ports:
         - containerPort: 8080
